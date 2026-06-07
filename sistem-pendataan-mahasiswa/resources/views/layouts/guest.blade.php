@@ -20,7 +20,7 @@
     <div class="min-h-screen flex flex-col sm:justify-center items-center pt-6 sm:pt-0 bg-green-50">
         <div>
             <a href="/">
-                <x-application-logo class="w-20 h-20 text-green-600" />
+                <x-application-logo class="w-32 h-32 text-green-700" />
             </a>
         </div>
 
