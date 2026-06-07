@@ -21,7 +21,7 @@
 
         <div class="flex flex-col items-center mb-6">
             <a href="/">
-                <x-application-logo class="w-32 h-32 text-green-700" />
+                <x-application-logo class="w-37 h-37 text-green-700" />
             </a>
 
             <div class="text-center mt-4">
