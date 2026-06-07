@@ -22,6 +22,10 @@
             <a href="/">
                 <x-application-logo class="w-32 h-32 text-green-700" />
             </a>
+            <h1 class="mt-4 text-2xl font-bold text-gray-800">
+                MhsHub
+            </h1>
+            <p class="text-sm text-gray-500">Sistem Pendataan Mahasiswa</p>
         </div>
 
         <div
